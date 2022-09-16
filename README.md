@@ -1,10 +1,24 @@
-**Projeto do NLW Esports **
+**Projeto do NLW Esports**
 
-Foi criado uma landing page onde é feito um agrupamento de links com tema de games.
+![preview](./.github/preview.png)
 
-*Linguagens usadas*
+>Triha Explorer
+
+Projeto desenvolvido no evento Next Level Week da Rocketseat
+
+
+[ 🔗 Clque aqui para acessar](https://carol-vserra.github.io/nlwExplorer-eSports/)
+
+
+## 🔧 Tecnologias ##
 
 - HTLM
 - CSS
-- 
+- Git e Github
+
+*Contato*
+
+benji.cs18@gmail.com
+
+
 
